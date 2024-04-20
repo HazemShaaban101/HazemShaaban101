@@ -1,5 +1,5 @@
-### Hi there 👋
-this profile will showcase my progress learning embedded systems and programming in general!
+###### Hi there 👋
+###this profile will showcase my progress learning embedded systems and programming in general!
 
 🌱 I’m currently taking get_in_depth's mastering embedded systems diploma, the profile also contains projects i did for harvard's infamous CS50 course (check out my tideman solution!) which i also intend to finish along the way.
 
