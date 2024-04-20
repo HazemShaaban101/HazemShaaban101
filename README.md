@@ -1,12 +1,14 @@
 ### Hi there 👋
-
+this profile will showcase my progress learning embedded systems and programming in general!
+🌱 I’m currently taking get_in_depth's mastering embedded systems diploma, the profile also contains
+    projects i did for harvard's infamous CS50 course which i also intend to finish along the way.
 <!--
 **HazemShaaban101/HazemShaaban101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
