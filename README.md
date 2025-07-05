@@ -15,7 +15,7 @@ help optimize performance and create the logic that <span class="gray">⚙️pow
 <tr>
   <td>
     <p>
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="200" height="100" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="50" />
     </p>
   </td>
   <td>
@@ -29,7 +29,7 @@ help optimize performance and create the logic that <span class="gray">⚙️pow
 <tr>
   <td> 
     <p>
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" width="200" height="100" />
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" width="150" height="50" />
     </p>
   </td>
   <td>
@@ -50,8 +50,7 @@ help optimize performance and create the logic that <span class="gray">⚙️pow
   <td>
   
 <p>
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150" height="50" />
 
 </p>
 </td>
@@ -65,9 +64,9 @@ help optimize performance and create the logic that <span class="gray">⚙️pow
 <tr>
   <td>
   
-<p>
+<p markdown-style="height: 100%; display: flex; justify-content: center; align-items: center; background-color: red;">
 
-![phone number](https://img.shields.io/badge/Phone%20number-0A7CBD?style=for-the-badge&color=%230A7CBD)
+<img src="https://img.shields.io/badge/Phone%20number-0A7CBD?style=for-the-badge&color=%230A7CBD" width="150" height="50" />
 
 </p> </td>
 
@@ -84,8 +83,7 @@ help optimize performance and create the logic that <span class="gray">⚙️pow
   
 <p>
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="150" height="50" />
 </p> </td>
 
   <td>
