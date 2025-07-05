@@ -1,20 +1,3 @@
-<style>
-  .gold{
-    color: gold;
-  }
-
-  .gray{
-    color: lightgray;
-  }
-
-table tr{
-  height: fit-content;
-}
-  table tr td p{
-    text-align: center;
-  }
-</style>
-
 ## Hi there 👋
 
 ### this profile will showcase my progress learning front-end development, embedded systems, and programming in general!
@@ -32,7 +15,7 @@ help optimize performance and create the logic that <span class="gray">⚙️pow
 <tr>
   <td>
     <p>
-  
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="200" />
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
     </p>
   </td>
