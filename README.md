@@ -35,7 +35,7 @@ help optimize performance and create the logic that <span class="gray">⚙️pow
   <td>
   <p>
 
-[Hackerrank](https://www.hackerrank.com/profile/7azemsh3baan)</p>
+[7azemsh3baan](https://www.hackerrank.com/profile/7azemsh3baan)</p>
 
   </td>
 </tr>
@@ -64,7 +64,7 @@ help optimize performance and create the logic that <span class="gray">⚙️pow
 <tr>
   <td>
   
-<p markdown-style="height: 100%; display: flex; justify-content: center; align-items: center; background-color: red;">
+<p>
 
 <img src="https://img.shields.io/badge/Phone%20number-0A7CBD?style=for-the-badge&color=%230A7CBD" width="150" height="50" />
 
